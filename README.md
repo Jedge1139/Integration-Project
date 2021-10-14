@@ -1,2 +1,2 @@
-# Integration-Project
-Integrating object oriented programming skills from Programming II 
+# Unnammed Zomibe Surival Game
+This project will be my attempt at making a basis zombie survial game using C++(visual studios) and the unreal engine. This game was made independently by myself. The level of proficiency I would say that I am would be a moderate understanding of C++. This project was made for fun as well as an assigment in one of my classes. This reflects the type of games that I enjoy to play in my free time. I made this for my COP 3003 Programming II course at Florida Gulf Coast University. 
