@@ -1,0 +1,2 @@
+C:\Users\pirat\ZombieGame\Intermediate\Build\Win64\UE4Editor\Development\ZombieGame\Definitions.ZombieGame.h
+C:\Users\pirat\ZombieGame\Source\ZombieGame\ZombieGame.h

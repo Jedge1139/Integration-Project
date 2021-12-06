@@ -1,0 +1,3 @@
+C:\Users\pirat\ZombieGame\Intermediate\Build\Win64\UE4Editor\Development\ZombieGame\Definitions.ZombieGame.h
+C:\Users\pirat\ZombieGame\Source\ZombieGame\CustomActor.h
+C:\Users\pirat\ZombieGame\Intermediate\Build\Win64\UE4Editor\Inc\ZombieGame\CustomActor.generated.h

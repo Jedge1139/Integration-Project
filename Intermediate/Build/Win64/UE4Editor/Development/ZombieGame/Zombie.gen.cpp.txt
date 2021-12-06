@@ -1,0 +1,5 @@
+C:\Users\pirat\ZombieGame\Intermediate\Build\Win64\UE4Editor\Development\ZombieGame\Definitions.ZombieGame.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\pirat\ZombieGame\Source\ZombieGame/Zombie.h
+C:\Users\pirat\ZombieGame\Intermediate\Build\Win64\UE4Editor\Inc\ZombieGame\Zombie.generated.h
